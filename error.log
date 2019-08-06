@@ -1,0 +1,176 @@
+{ message: 'Error al ejecutar el código',
+  level: 'error',
+  timestamp: '2019-08-06T19:13:52.184Z' }
+{ message: 'Error: Can\'t set headers after they are sent.\n    at validateHeader (_http_outgoing.js:491:11)\n    at ServerResponse.setHeader (_http_outgoing.js:498:3)\n    at ServerResponse.header (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/response.js:767:10)\n    at ServerResponse.json (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/response.js:264:10)\n    at ServerResponse.send (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/response.js:158:21)\n    at /home/sib/WebstormProjects/ApiUsuarios/app.js:39:32\n    at Layer.handle [as handle_request] (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/route.js:112:3)\n    at Layer.handle [as handle_request] (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/layer.js:95:5)',
+  level: 'error',
+  timestamp: '2019-08-06T19:13:52.216Z' }
+2019-08-06T19:16:56.041Z [right meow!] error: Error al ejecutar el código
+2019-08-06T19:16:56.049Z [right meow!] error: Error: Can't set headers after they are sent.
+    at validateHeader (_http_outgoing.js:491:11)
+    at ServerResponse.setHeader (_http_outgoing.js:498:3)
+    at ServerResponse.header (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.json (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/response.js:264:10)
+    at ServerResponse.send (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/response.js:158:21)
+    at /home/sib/WebstormProjects/ApiUsuarios/app.js:39:32
+    at Layer.handle [as handle_request] (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/layer.js:95:5)
+2019-08-06T19:24:02.346Z [right meow!] error: Error al ejecutar el código
+2019-08-06T19:24:02.352Z [right meow!] error: Error: Can't set headers after they are sent.
+    at validateHeader (_http_outgoing.js:491:11)
+    at ServerResponse.setHeader (_http_outgoing.js:498:3)
+    at ServerResponse.header (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.json (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/response.js:264:10)
+    at ServerResponse.send (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/response.js:158:21)
+    at /home/sib/WebstormProjects/ApiUsuarios/app.js:39:32
+    at Layer.handle [as handle_request] (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/layer.js:95:5)
+2019-08-06T19:25:53.786Z undefined error undefined Error al ejecutar el código
+2019-08-06T19:25:53.793Z undefined error undefined Error: Can't set headers after they are sent.
+    at validateHeader (_http_outgoing.js:491:11)
+    at ServerResponse.setHeader (_http_outgoing.js:498:3)
+    at ServerResponse.header (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.json (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/response.js:264:10)
+    at ServerResponse.send (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/response.js:158:21)
+    at /home/sib/WebstormProjects/ApiUsuarios/app.js:39:32
+    at Layer.handle [as handle_request] (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/layer.js:95:5)
+2019-08-06T19:26:31.624Z undefined error undefined Error al ejecutar el código
+2019-08-06T19:26:31.629Z undefined error undefined Error: Can't set headers after they are sent.
+    at validateHeader (_http_outgoing.js:491:11)
+    at ServerResponse.setHeader (_http_outgoing.js:498:3)
+    at ServerResponse.header (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.json (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/response.js:264:10)
+    at ServerResponse.send (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/response.js:158:21)
+    at /home/sib/WebstormProjects/ApiUsuarios/app.js:39:32
+    at Layer.handle [as handle_request] (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/layer.js:95:5)
+2019-08-06T19:26:52.520Z | error | Error al ejecutar el código
+2019-08-06T19:26:52.526Z | error | Error: Can't set headers after they are sent.
+    at validateHeader (_http_outgoing.js:491:11)
+    at ServerResponse.setHeader (_http_outgoing.js:498:3)
+    at ServerResponse.header (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.json (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/response.js:264:10)
+    at ServerResponse.send (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/response.js:158:21)
+    at /home/sib/WebstormProjects/ApiUsuarios/app.js:39:32
+    at Layer.handle [as handle_request] (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/layer.js:95:5)
+2019-08-06T19:34:45.981Z | error | Error al ejecutar el código
+2019-08-06T19:34:45.992Z | error | Error: Can't set headers after they are sent.
+    at validateHeader (_http_outgoing.js:491:11)
+    at ServerResponse.setHeader (_http_outgoing.js:498:3)
+    at ServerResponse.header (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.json (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/response.js:264:10)
+    at ServerResponse.send (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/response.js:158:21)
+    at /home/sib/WebstormProjects/ApiUsuarios/app.js:39:32
+    at Layer.handle [as handle_request] (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/layer.js:95:5)
+2019-08-06T19:38:21.190Z | error | Error al ejecutar el código
+2019-08-06T19:38:21.191Z | error | Error: Can't set headers after they are sent.
+    at validateHeader (_http_outgoing.js:491:11)
+    at ServerResponse.setHeader (_http_outgoing.js:498:3)
+    at ServerResponse.header (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.json (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/response.js:264:10)
+    at ServerResponse.send (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/response.js:158:21)
+    at /home/sib/WebstormProjects/ApiUsuarios/app.js:39:32
+    at Layer.handle [as handle_request] (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/layer.js:95:5)
+2019-08-06T19:44:41.505Z | error | Error al ejecutar el código
+2019-08-06T19:44:41.523Z | error | Error: Can't set headers after they are sent.
+    at validateHeader (_http_outgoing.js:491:11)
+    at ServerResponse.setHeader (_http_outgoing.js:498:3)
+    at ServerResponse.header (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.json (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/response.js:264:10)
+    at ServerResponse.send (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/response.js:158:21)
+    at /home/sib/WebstormProjects/ApiUsuarios/app.js:39:32
+    at Layer.handle [as handle_request] (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/layer.js:95:5)
+2019-08-06T19:44:41.637Z | error | Error al ejecutar el código
+2019-08-06T19:44:41.638Z | error | Error: Can't set headers after they are sent.
+    at validateHeader (_http_outgoing.js:491:11)
+    at ServerResponse.setHeader (_http_outgoing.js:498:3)
+    at ServerResponse.header (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/response.js:767:10)
+    at ServerResponse.json (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/response.js:264:10)
+    at ServerResponse.send (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/response.js:158:21)
+    at /home/sib/WebstormProjects/ApiUsuarios/app.js:39:32
+    at Layer.handle [as handle_request] (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/layer.js:95:5)
+2019-08-06T21:54:58.188Z | error | Error al persisitir en la base de datos.
+2019-08-06T21:54:58.200Z | error | ValidationError: id: Cast to ObjectID failed for value "4" at path "id", email: Path `email` is required., userName: Path `userName` is required., name: Path `name` is required.
+    at new ValidationError (/home/sib/WebstormProjects/ApiUsuarios/node_modules/mongoose/lib/error/validation.js:30:11)
+    at model.Document.invalidate (/home/sib/WebstormProjects/ApiUsuarios/node_modules/mongoose/lib/document.js:2317:32)
+    at model.$set (/home/sib/WebstormProjects/ApiUsuarios/node_modules/mongoose/lib/document.js:1112:10)
+    at model._handleIndex (/home/sib/WebstormProjects/ApiUsuarios/node_modules/mongoose/lib/document.js:877:14)
+    at model.$set (/home/sib/WebstormProjects/ApiUsuarios/node_modules/mongoose/lib/document.js:821:22)
+    at model.Document (/home/sib/WebstormProjects/ApiUsuarios/node_modules/mongoose/lib/document.js:124:12)
+    at model.Model (/home/sib/WebstormProjects/ApiUsuarios/node_modules/mongoose/lib/model.js:92:12)
+    at new model (/home/sib/WebstormProjects/ApiUsuarios/node_modules/mongoose/lib/model.js:4394:15)
+    at createUser (/home/sib/WebstormProjects/ApiUsuarios/controllers/UserController.js:68:20)
+    at Layer.handle [as handle_request] (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/layer.js:95:5)
+    at /home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/index.js:275:10)
+2019-08-06T21:56:03.544Z | error | Error al persisitir en la base de datos.
+2019-08-06T21:56:03.560Z | error | ValidationError: id: Cast to ObjectID failed for value "4" at path "id", email: Path `email` is required., userName: Path `userName` is required., name: Path `name` is required.
+    at new ValidationError (/home/sib/WebstormProjects/ApiUsuarios/node_modules/mongoose/lib/error/validation.js:30:11)
+    at model.Document.invalidate (/home/sib/WebstormProjects/ApiUsuarios/node_modules/mongoose/lib/document.js:2317:32)
+    at model.$set (/home/sib/WebstormProjects/ApiUsuarios/node_modules/mongoose/lib/document.js:1112:10)
+    at model._handleIndex (/home/sib/WebstormProjects/ApiUsuarios/node_modules/mongoose/lib/document.js:877:14)
+    at model.$set (/home/sib/WebstormProjects/ApiUsuarios/node_modules/mongoose/lib/document.js:821:22)
+    at model.Document (/home/sib/WebstormProjects/ApiUsuarios/node_modules/mongoose/lib/document.js:124:12)
+    at model.Model (/home/sib/WebstormProjects/ApiUsuarios/node_modules/mongoose/lib/model.js:92:12)
+    at new model (/home/sib/WebstormProjects/ApiUsuarios/node_modules/mongoose/lib/model.js:4394:15)
+    at createUser (/home/sib/WebstormProjects/ApiUsuarios/controllers/UserController.js:68:20)
+    at Layer.handle [as handle_request] (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/layer.js:95:5)
+    at /home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/index.js:275:10)
+2019-08-06T21:57:56.181Z | error | Error al persisitir en la base de datos.
+2019-08-06T21:57:56.193Z | error | ValidationError: id: Cast to ObjectID failed for value "4" at path "id", email: Path `email` is required., userName: Path `userName` is required., name: Path `name` is required.
+    at new ValidationError (/home/sib/WebstormProjects/ApiUsuarios/node_modules/mongoose/lib/error/validation.js:30:11)
+    at model.Document.invalidate (/home/sib/WebstormProjects/ApiUsuarios/node_modules/mongoose/lib/document.js:2317:32)
+    at model.$set (/home/sib/WebstormProjects/ApiUsuarios/node_modules/mongoose/lib/document.js:1112:10)
+    at model._handleIndex (/home/sib/WebstormProjects/ApiUsuarios/node_modules/mongoose/lib/document.js:877:14)
+    at model.$set (/home/sib/WebstormProjects/ApiUsuarios/node_modules/mongoose/lib/document.js:821:22)
+    at model.Document (/home/sib/WebstormProjects/ApiUsuarios/node_modules/mongoose/lib/document.js:124:12)
+    at model.Model (/home/sib/WebstormProjects/ApiUsuarios/node_modules/mongoose/lib/model.js:92:12)
+    at new model (/home/sib/WebstormProjects/ApiUsuarios/node_modules/mongoose/lib/model.js:4394:15)
+    at createUser (/home/sib/WebstormProjects/ApiUsuarios/controllers/UserController.js:68:20)
+    at Layer.handle [as handle_request] (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/layer.js:95:5)
+    at /home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/sib/WebstormProjects/ApiUsuarios/node_modules/express/lib/router/index.js:275:10)
+2019-08-06T21:59:39.879Z | error | Error al persisitir en la base de datos.
+2019-08-06T21:59:39.882Z | error | ValidationError: email: validator is not defined
+    at new ValidationError (/home/sib/WebstormProjects/ApiUsuarios/node_modules/mongoose/lib/error/validation.js:30:11)
+    at model.Document.invalidate (/home/sib/WebstormProjects/ApiUsuarios/node_modules/mongoose/lib/document.js:2317:32)
+    at p.doValidate.skipSchemaValidators (/home/sib/WebstormProjects/ApiUsuarios/node_modules/mongoose/lib/document.js:2166:17)
+    at /home/sib/WebstormProjects/ApiUsuarios/node_modules/mongoose/lib/schematype.js:1037:9
+    at _combinedTickCallback (internal/process/next_tick.js:132:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:219:9)
