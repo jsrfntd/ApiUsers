@@ -20,7 +20,7 @@
     "morgan": "~1.9.1",
     "printf": "^0.5.2",
     "pug": "2.0.0-beta11",
-    "validator": "^11.1.0",
+    "validator": "^13.7.0",
     "winston": "^3.2.1",
     "winston-daily-rotate-file": "^3.10.0"
   },
